@@ -1,4 +1,4 @@
-**Saga eitt (1)**
+# Saga eitt (1)
 
 Þetta er sagan um Mikael sem er kokkur.
 
@@ -77,7 +77,7 @@ Já, viðskiptavinirnir eru vinalegir.
 glaður þegar hann talar við viðskiptavinina? Já, Mikael er glaður þegar
 hann talar við viðskiptavinina.
 
-**Saga tvö (2)**
+# Saga tvö (2)
 
 A\)
 
@@ -152,7 +152,7 @@ Frakklands? Já, Þorsteinn vill fara til Frakklands í fríinu sínu.
 fríinu. Ákveður Þorsteinn að læra frönsku? Já, hann ákveður að læra
 frönsku, að spara peninga og að vera heima í fríinu.
 
-**Saga þrjú (3)**
+# Saga þrjú (3)
 
 A\)
 
@@ -227,7 +227,7 @@ kött í gæludýrabúð.
 8\) Nú er Karen mjög glöð því hún á kött. Leiðist Karen núna? Nei Karen
 leiðist ekki. Núna er hún mjög glöð því hún á kött.
 
-**Saga fjögur (4)**
+# Saga fjögur (4)
 
 A\)
 
@@ -298,7 +298,7 @@ saga skemmtilegar? Nei henni þykja stærðfræði og vísindi skemmtileg.
 7\) Dótturinni og Ástu gengur vel í skólanum. Gengur dótturinni vel í
 skólanum? Já, dótturinni og Ástu gengur vel í skólanum.
 
-**Saga fimm (5)**
+# Saga fimm (5)
 
 A\)
 
@@ -372,7 +372,7 @@ eru skyld. Klara er eldri systir Jóns.
 8\) Klara lætur Jón læra heima á hverjum degi. Lætur Klara Jón læra
 heima? Já, Klara lætur Jón læra heima á hverjum degi.
 
-**Saga sex (6)**
+# Saga sex (6)
 
 A\)
 
@@ -443,7 +443,7 @@ tennurnar? Já, Friðrik fer í sturtu og burstar tennurnar.
 
 8\) Jóna les bók. Les Jóna bók? Já, hún les bók.
 
-**Saga sjö (7)**
+# Saga sjö (7)
 
 A\)
 
@@ -515,7 +515,7 @@ löng hádegismatarhlé.
 7\) Jökull getur farið heim klukkan fimm. Getur Jökull farið heim
 klukkan fjögur? Nei, hann getur farið heim klukkan fimm.
 
-**Saga átta (8)**
+# Saga átta (8)
 
 A\)
 
@@ -590,7 +590,7 @@ skórnir dýrir? Já, svörtu skórnir eru dýrir. Þeir kosta fimmtíu og sjö
 8\) Lísa leggur skóna frá sér og fer úr búðinni. Kaupir Lísa skóna? Nei,
 Lísa kaupir ekki skóna. Hún leggur þá frá sér og fer úr búðinni.
 
-**Saga níu (9)**
+# Saga níu (9)
 
 A\)
 
@@ -662,7 +662,7 @@ búðinni? Nei, Andri fer á endanum úr búðinni og heim til sín.
 7\) Andri pantar pizzu í staðinn. Eldar Andri kvöldmat? Nei, Andri eldar
 ekki kvöldmat. Hann pantar pizzu í staðinn
 
-**Saga tíu (10)**
+# Saga tíu (10)
 
 A\)
 
@@ -739,7 +739,7 @@ hálsfestinni? Nei, það er það ekki.
 með hana. Kaupir Jens hálsfestina? Já, Jens kaupir hálsfestina því hann
 vonar að Melkorka verði ánægð með hana.
 
-**Saga ellefu (11)**
+# Saga ellefu (11)
 
 A\)
 
@@ -813,7 +813,7 @@ hún er dýr.
 8\) Brandur ákveður að spara meiri pening. Vill Brandur spara pening?
 Já, Brandur vill spara meiri pening.
 
-**Saga tólf (12)**
+# Saga tólf (12)
 
 A\)
 
@@ -891,7 +891,7 @@ lyklaborðið og stílinn á bláu tölvunni.
 9\) Jónína borgar tölvuna með kreditkorti. Borgar Jónína tölvuna með
 reiðufé? Nei, það gerir hún ekki. Hún borgar hana með kreditkorti.
 
-**Saga þrettán**
+# Saga þrettán (13)
 
 A\)
 
@@ -967,7 +967,7 @@ Karítas.
 8\) Salvar segir að Karítas sé með fallegt bros. Segir Salvar að Karítas
 sé með fallegt bros? Já, Salvar segir að Karítas sé með fallegt bros.
 
-**Saga 14**
+# Saga fjórtán (14)
 
 A\)
 
@@ -1042,7 +1042,7 @@ tímann? Já, Kötlu verkjar í vöðvana eftir tímann.
 8\) Kannski getur Katla ekki lært hvernig á að dansa. Getur Katla lært
 hvernig á að dansa? Kannski getur Katla ekki lært hvernig á að dansa.
 
-**Saga fimmtán (15)**
+# Saga fimmtán (15)
 
 A\)
 
@@ -1114,7 +1114,7 @@ Emelía líka að hlaupa? Nei, Emelía prófar að lyfta lóðum.
 til að æfa sig. Eru Magnea og Emelía mjög uppteknar? Já, þær eru mjög
 uppteknar, svo þær hafa ekki mikinn tíma til að æfa sig.
 
-**Saga 16**
+# Saga sextán (16)
 
 A\)
 
@@ -1190,7 +1190,7 @@ að tala við fólk? Já, Geir hefur gaman af að tala við fólk.
 veitingastað? Nei, hann vill ekki starf á veitingastað. Hann vill finna
 sér starf í verslun.
 
-**Saga 17**
+# Saga sautján (17)
 
 A\)
 
@@ -1267,7 +1267,7 @@ stífluð? Já, hraðbrautin er alltaf troðin á hverjum degi.
 keyra. Vill Markús kaupa mótorhjól? Já, hann heldur að hann kaupi
 kannski mótorhjól í staðinn fyrir að keyra.
 
-Saga 18
+# Saga átján (18)
 
 A\)
 
@@ -1348,7 +1348,7 @@ ekki í buxurnar. Hún fer í brúnu skyrtuna.
 10\) Áslaugu er kalt á fótunum. Er Áslaugu hlýtt í pilsinu? Nei, henni
 er ekki hlýtt. Henni er kalt á fótunum.
 
-**Saga 19**
+# Saga nítján (19)
 
 A\)
 
@@ -1394,7 +1394,7 @@ En ég vil borða frönsku kartöflurnar.
 
 Svo kaupi ég og borða frönsku kartöflurnar.
 
-**  
+**
 Spurningar:**
 
 1\) Kári er að taka sér hlé í skólanum. Er Kári að vinna í skólanum?
@@ -1420,7 +1420,7 @@ borði salatið, ekki frönsku kartöflurnar.
 Nei, Kári kaupir ekki salatið. Hann kaupir frönsku kartöflurnar og
 borðar þær.
 
-**Saga 20**
+# Saga tuttugu (20)
 
 A\)
 
@@ -1471,7 +1471,7 @@ Lestirnar voru á áætlun.
 
 Ég vonaði að ég yrði ekki of sein í vinnuna.
 
-**Spurningar:  
+**Spurningar:
 A)**
 
 1\) Elísa er að reyna að komast í vinnuna. Er Elísa að reyna að komast í
@@ -1487,7 +1487,7 @@ bíllinn hennar Elísu í gang? Nei, bíllinn hennar Elísu fer ekki í gang
 4\) Elísa skoðar fyrst rútuáætlunina. Skoðar Elísa fyrst
 lestaráætlunina? Nei, hún skoðar fyrst rútuáætlunina.
 
-**B)**  
+**B)**
 5) Rúturnar í borginni gengu of hægt. Gengu rúturnar í borginni of hægt?
 Já, rúturnar í borginni gengu of hægt.
 
@@ -1502,7 +1502,7 @@ vinnuna? Nei, Elísa ákvað ekki að taka rútuna. Hún ákvað að taka lestin
 of sein? Nei, hún vildi ekki verða of sein. Hún vonaði að hún yrði ekki
 of sein í vinnuna.
 
-**Saga tuttugu og eitt (21)**
+# Saga tuttugu og eitt (21)
 
 A\)
 
@@ -1552,7 +1552,7 @@ Ein af myndunum var grínmynd.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Þorgeir á frídag í vinnunni. Er Þorgeir að vinna í dag? Nei, Þorgeir
 er ekki að vinna. Hann á frídag frá vinnunni.
 
@@ -1565,7 +1565,7 @@ vísindaskáldsögumyndir. Finnast Þorgeiri rómantískar myndir góðar? Nei,
 vísindaskáldsögumyndir.
 
 4\) Þorgeiri finnast grínmyndir og hasarmyndir góðar. Hvaða myndir
-finnast Þorgeiri góðar? Honum finnast grínmyndir og hasarmyndir góðar.  
+finnast Þorgeiri góðar? Honum finnast grínmyndir og hasarmyndir góðar.
 **B)**
 
 5\) Þorgeir skoðaði listann af nýjum myndum á netinu. Hvaða lista
@@ -1581,7 +1581,7 @@ sýningu.
 8\) Þorgeir ákvað að sjá nýju grínmyndina. Hvaða mynd ákvað Þorgeir að
 sjá? Hann ákvað að sjá nýju grínmyndina.
 
-**Saga tuttugu og tvö (22)**
+# Saga tuttugu og tvö (22)
 
 A\)
 
@@ -1631,7 +1631,7 @@ Mér leið ekki betur þegar ég fór frá lækninum.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Emmu líður ekki vel. Líður Emmu vel? Nei, henni líður ekki vel.
 
 2\) Emma er með höfuðverk og er sár í kverkunum. Hvað er hún með? Hún er
@@ -1644,7 +1644,7 @@ mikið.
 ákveður að fara til læknisins.
 
 5\) Emma segir lækninum hvernig henni líður. Hvað segir hún lækninum?
-Hún segir lækninum hvernig henni líður.  
+Hún segir lækninum hvernig henni líður.
 **B)**
 
 6\) Læknirinn sagði Emmu að hún væri með kvef. Hvað sagði læknirinn
@@ -1662,7 +1662,7 @@ vatn í staðinn.
 þegar hún fór frá lækninum? Nei, Emmu leið ekki betur þegar hún fór frá
 lækninum.
 
-**Saga tuttugu og þrjú (23)**
+# Saga tuttugu og þrjú (23)
 
 A\)
 
@@ -1710,7 +1710,7 @@ Vinur minn vildi að ég kæmi í boðið hans.
 
 Ég lærði fyrir prófin eftir boðið.
 
-**Spurningar:  
+**Spurningar:
 A)**
 
 1\) Lárus er háskólanemi. Hvað er Lárus? Lárus er háskólanemi.
@@ -1722,7 +1722,7 @@ A)**
 Fyrst þarf Lárus að taka nokkur próf.
 
 4\) Lárus þarf að taka sex próf. Þarf Lárus að taka níu próf? Nei, Lárus
-þarf ekki að taka níu próf. Hann þarf að taka sex próf.  
+þarf ekki að taka níu próf. Hann þarf að taka sex próf.
 **B)**
 
 5\) Vinur Lárusar átti afmæli þessa helgi. Hvað átti vinur Lárusar þessa
@@ -1741,7 +1741,7 @@ hjá vini sínum? Já, Lárus vildi fara í boðið hjá vini sínum.
 9\) Lárus lærði fyrir prófin sín eftir boðið. Hvenær lærði Lárus fyrir
 prófin sín? Lárus lærði fyrir prófin sín eftir boðið.
 
-**Saga tuttugu og fjögur (24)**
+# Saga tuttugu og fjögur (24)
 
 **A)**
 
@@ -1789,7 +1789,7 @@ Mér fannst ég líta vel út í nýju jakkafötunum mínum.
 
 Ég var tilbúinn fyrir viðtalið mitt í gær.
 
-**  
+**
 Spurningar:**
 
 **A)**
@@ -1804,7 +1804,7 @@ morgun? Hann fer í atvinnuviðtal á morgun.
 hans Karls eru ekki ný. Þau eru mjög gömul.
 
 4\) Karl er að hugsa um að kaupa ný jakkaföt. Hvað er Karl að hugsa um
-að kaupa? Karl er að hugsa um að kaupa ný jakkaföt.  
+að kaupa? Karl er að hugsa um að kaupa ný jakkaföt.
 **B)**
 
 5\) Karl mátaði nokkur pör af nýjum jakkafötum. Hvað gerði Karl? Karl
@@ -1820,7 +1820,7 @@ jakkafötunum.
 8\) Karl var tilbúinn fyrir viðtalið sitt í gær. Var Karl tilbúinn fyrir
 viðtalið sitt í gær? Já, Karl var tilbúinn fyrir viðtalið sitt í gær.
 
-**Saga tuttugu og fimm (25)**
+# Saga tuttugu og fimm (25)
 
 **A)**
 
@@ -1870,7 +1870,7 @@ Við vonuðum að barnið yrði ánægt með nafnið sitt.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Konan hans Davíðs er að fara að eignast barn. Hvað er konan hans
 Davíðs að fara að eignast? Konan hans Davíðs er að fara að eignast barn.
 
@@ -1887,7 +1887,7 @@ nýja barnið mun ekki verða stelpa. Nýja barnið mun verða strákur.
 
 5\) Þau vita ekki hvaða nafn þau eiga að gefa barninu. Vita þau hvaða
 nafn þau eiga að gefa barninu? Nei, þau vita ekki hvaða nafn þau eiga að
-gefa barninu.  
+gefa barninu.
 **B)**
 
 6\) Þau ákveða að spyrja foreldra sína um barnanöfn. Hvað ákveða þau að
@@ -1907,7 +1907,7 @@ konan hans barnið heita? Þau létu barnið heita „Einar“.
 Hvað vonuðu Davíð og konan hans? Þau vonuðu að barnið yrði ánægt með
 nafnið sitt.
 
-**Saga tuttugu og sex (26)**
+# Saga tuttugu og sex (26)
 
 **A)**
 
@@ -1957,7 +1957,7 @@ Og ég setti allt skóladótið mitt á skrifborðið mitt.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Alex mun þrífa herbergið sitt. Hvað mun Alex gera? Hann mun þrífa
 herbergið sitt.
 
@@ -1988,7 +1988,7 @@ skóladótið sitt á það. Hvað gerði Alex á endanum? Á endanum tók Alex 
 9\) Alex hugsaði að mamma hans yrði mjög glöð. Hvað hugsaði Alex að
 mömmu hans myndi finnast? Alex hugsaði að mamma hans yrði mjög glöð.
 
-**Saga tuttugu og sjö (27)**
+# Saga tuttugu og sjö (27)
 
 **A)**
 
@@ -2068,7 +2068,7 @@ var að fara að vera í stórborg.
 9\) Villi mundi taka mikið af myndum þar. Hvað mundi Villi að gera þar?
 Villi mundi taka margar myndir þar.
 
-**Saga tuttugu og átta (28)**
+# Saga tuttugu og átta (28)
 
 **A)**
 
@@ -2118,7 +2118,7 @@ Eftir ferðina var ég að fara að sýna hverja einustu mynd mína á netinu.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Stella er að fara að heimsækja nýtt land. Hvað er Stella að fara að
 gera? Hún er að fara að heimsækja nýtt land.
 
@@ -2152,7 +2152,7 @@ var að fara að sýna hverja einustu mynd sína á netinu eftir ferðina.
 10\) Hún var að vona að nettengingin yrði góð. Hvað var hún að vona? Hún
 var að vona að nettengingin yrði góð.
 
-**Saga tuttugu og níu (29)**
+# Saga tuttugu og níu (29)
 
 **A)**
 
@@ -2202,7 +2202,7 @@ En ég gleymdi hvernig á að búa til pasta sósu.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Leifur er að fara að læra að elda. Hvað er Leifur að fara að læra?
 Leifur er að fara að læra að elda.
 
@@ -2232,14 +2232,14 @@ Hann þurfti að búa til pasta sósuna.
 
 9\) Hann gleymdi hvernig á að búa til pasta sósuna. Getur hann munað
 hvernig á að búa til pasta sósu? Nei hann gleymdi hvernig á að búa hana
-til.  
+til.
 10) Hann var að fara að skoða uppskriftina á netinu. Hvar ætlaði hann að
 skoða uppskriftina? Hann var að fara að skoða uppskriftina á netinu.
 
-**  
+**
 **
 
-**Saga þrjátíu (30)**
+# Saga þrjátíu (30)
 
 **A)**
 
@@ -2289,7 +2289,7 @@ Stundum, þegar ég er tilbúinn að fara, er orðið skýjað!
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Áður fyrr vaknaði Jóhann snemma á laugardögum. Vaknaði Jóhann áður
 fyrr seint á laugardögum? Nei, Jóhann vaknaði áður fyrr snemma á
 laugardögum.
@@ -2305,8 +2305,8 @@ Já, veðrið hafði oft verið gott og sólríkt.
 yfirleitt að gera? Jóhann ákvað yfirleitt að fara á ströndina.
 
 5\) Ströndin var í um klukkutíma akstursfjarlægð. Hvar var ströndin?
-Ströndin var í um klukkutíma akstursfjarlægð.  
-  
+Ströndin var í um klukkutíma akstursfjarlægð.
+
 **B)**
 
 6\) Jóhann leitar fyrst að sundskýlunni sinni. Hverju leitar Jóhann
@@ -2327,7 +2327,7 @@ veðrið er ekki alltaf gott og sólríkt. Stundum hefur orðið skýjað.
 Jóhann til að geta farið á ströndina? Jóhann vonast til að geta farið á
 ströndina á morgun.
 
-**Saga þrjátíu og eitt (31)**
+# Saga þrjátíu og eitt (31)
 
 **A)**
 
@@ -2353,7 +2353,7 @@ En ég var með ofnæmi fyrir kjúklingi.
 
 Svo ég borðaði bara grænmetið og eftirrétt.
 
-**B)  
+**B)
 **Vinkona Rósu býr langt í burtu.
 
 Hún hefur beðið Rósu um að koma í kvöldmat.
@@ -2376,7 +2376,7 @@ Svo Rósa borðar bara grænmetið og eftirrétt.
 
 **Spurningar**
 
-**A)**  
+**A)**
 1) Vinkona Rósu flutti langt í burtu. Býr vinkona Rósu nálægt? Nei,
 vinkona Rósu býr ekki nálægt. Vinkona Rósu býr langt í burtu.
 
@@ -2389,7 +2389,7 @@ vinkonu sína? Já, Rósa var glöð að heimsækja vinkonu sína.
 4\) Rósa keypti lestarmiða. Hvað keypti Rósa? Rósa keypti lestarmiða.
 
 5\) Rósa ferðaðist til að hitta vinkonu sína. Hvert ferðaðist Rósa? Rósa
-ferðaðist til að hitta vinkonu sína.  
+ferðaðist til að hitta vinkonu sína.
 **B)**
 
 6\) Vinkona Rósu er mjög glöð að sjá hana. Er vinkona Rósu glöð? Já,
@@ -2410,7 +2410,7 @@ Rósa getur ekki borðað kjúkling. Hún er með ofnæmi fyrir kjúklingi.
 10\) Rósa borðar bara grænmetið og eftirrétt. Hvað borðar Rósa? Hún
 borðar bara grænmetið og eftirrétt, en ekki kjúklinginn.
 
-**Saga þrjátíu og tvö (32)**
+# Saga þrjátíu og tvö (32)
 
 **A)**
 
@@ -2461,7 +2461,7 @@ Sonur minn fær sér appelsínusafa í staðinn.
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Sara hafði verið að reyna að búa til morgunmat. Hvað var Sara að
 reyna að búa til? Sara var að reyna að búa til morgunmat.
 
@@ -2491,7 +2491,7 @@ fyrir sjálfa sig og manninn sinn.
 8\) Sonur Söru er að fá sér appelsínusafa. Er sonur Söru að fá sér te?
 Nei, sonur Söru er ekki að fá sér te. Hann er að fá sér appelsínusafa.
 
-**Saga þrjátíu og þrjú (33)**
+# Saga þrjátíu og þrjú (33)
 
 **A)**
 
@@ -2542,7 +2542,7 @@ En þá rann upp fyrir mér að ég hef líka gleymt penna.
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Eiríkur var í tíma í háskólanum. Hvar var Eiríkur? Eiríkur var í
 tíma í háskólanum.
 
@@ -2553,7 +2553,7 @@ verið að hlusta á? Hann hafði verið að hlusta á prófessorinn.
 gleymt? Eiríkur hafði gleymt kennslubókinni sinni.
 
 4\) Fyrirlesturinn ruglaði Eirík. Hvað ruglaði Eirík? Fyrirlesturinn
-ruglaði Eirík.  
+ruglaði Eirík.
 **B)**
 
 5\) Hann hefur beðið annan bekkjarfélaga um hjálp og hefur beðið um að
@@ -2574,7 +2574,7 @@ Eiríkur verið að reyna að gera? Hann hefur verið að reyna að taka glósur
 upp fyrir Eiríki? Það rann upp fyrir Eiríki að hann hafði líka gleymt
 penna.
 
-**Saga þrjátíu og fjögur (34)**
+# Saga þrjátíu og fjögur (34)
 
 **A)**
 
@@ -2626,7 +2626,7 @@ Vinum mínum finnst sterkur matur betri en mér.
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Tommi var að fara út að borða kvöldmat með vinum sínum. Hvað var
 Tommi að gera með vinum sínum? Hann var að fara út að borða kvöldmat með
 vinum sínum.
@@ -2640,7 +2640,7 @@ matur bestur.
 
 4\) Vinum hans hefur alltaf fundist tælenskur matur betri en ítalskur
 matur. Hvernig matur hefur vinum hans alltaf fundist góður? Vinum hans
-hefur alltaf fundist tælenskur matur góður.  
+hefur alltaf fundist tælenskur matur góður.
 **B)**
 
 5\) Tommi hefur ákveðið að fá sér tælenskan mat. Hvað ákvað Tommi að
@@ -2660,7 +2660,7 @@ veitingastaðnum? Hann er búinn að panta salat.
 minna sterkt, salatið hans Tomma eða matur vina hans? Salatið hans Tomma
 er ekki eins sterkt og matur vina hans.
 
-**Saga þrjátíu og fimm (35)**
+# Saga þrjátíu og fimm (35)
 
 A\)
 
@@ -2710,7 +2710,7 @@ Hann á líklega eftir að vera um fimmtán ára gamall þegar hann deyr.
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Sonurinn hafði aldrei átt hund áður. Hvað hafði sonurinn aldrei
 átt? Sonurinn hafði aldrei átt hund áður.
 
@@ -2722,7 +2722,7 @@ ekki stór hundur. Hann var lítill hundur.
 
 4\) Mána hafði fundist gaman að hlaupa og leika sér þegar hann var
 hvolpur. Hvað hafði Mána fundist gaman að gera? Mána hafði fundist gaman
-að hlaupa og leika sér þegar hann var hvolpur.  
+að hlaupa og leika sér þegar hann var hvolpur.
 **B)**
 
 5\) Máni og sonurinn eiga alltaf eftir að leika sér saman. Á sonurinn
@@ -2736,7 +2736,7 @@ gera? Máni á líklega eftir að skíta sig mikið út.
 Mána? Nei, það á hún ekki eftir að gera. Sonurinn á oft eftir að þrífa
 Mána.
 
-**Saga þrjátíu og sex (36)**
+# Saga þrjátíu og sex (36)
 
 A\)
 
@@ -2786,7 +2786,7 @@ Og systir mín mun byrja í námi í tannlækningum.
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Finnur hafði átt stóra fjölskyldu þegar hann var ungur. Hafði
 Finnur átt stóra fjölskyldu? Já, Finnur hafði átt stóra fjölskyldu þegar
 hann var ungur.
@@ -2799,7 +2799,7 @@ Finnur hafði átt bróður og systur.
 
 4\) Finnur hafði ekki talað við bróður sinn í langan tíma. Hafði Finnur
 nýlega talað við bróður sinn? Nei, Finnur hafði ekki talað við bróður
-sinn í langan tíma.  
+sinn í langan tíma.
 **B)**
 
 5\) Finnur og bróðir hans munu búa mjög langt í burtu hvor frá öðrum.
@@ -2820,7 +2820,7 @@ Finnur er leikari í bíómyndum og í sjónvarpinu.
 bróðir sinn og systir? Nei, Finnur er ekki eins. Hann er mjög ólíkur
 bróður sínum og systur.
 
-**Saga þrjátíu og sjö (37)**
+# Saga þrjátíu og sjö (37)
 
 **A)**
 
@@ -2871,7 +2871,7 @@ Svo þarf ég að fara á aðra skrifstofu
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Adam hafði verið mjög stressaður áður en hann mætti í vinnuna í
 dag. Hvernig hafði Adam liðið áður en hann mætti í vinnuna? Adam hafði
 verið mjög stressaður áður en hann mætti í vinnuna í dag.
@@ -2887,7 +2887,7 @@ viðskiptavinina.
 
 4\) Eftir það hafði Adam þurft að fara á aðra skrifstofu. Hvenær hafði
 Adam þurft að fara á aðra skrifstofu. Hann hafði þurft að fara á aðra
-skrifstofu eftir það.  
+skrifstofu eftir það.
 **B)**
 
 5\) Hann á eftir að fara í hádegismat með yfirmanninum sínum eftir að
@@ -2906,7 +2906,7 @@ frameftir seint um kvöldið á föstudaginn.
 ekki haft í langan tíma? Adam hefur ekki haft létta dagskrá í langan
 tíma.
 
-**Saga 38**
+# Saga þrjátíu og átta (38)
 
 Nú kemur saga um tvær vinkonur, Sögu og Jennýju.
 
@@ -2966,7 +2966,7 @@ getur þú bara hlustað.
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Jenný og Saga höfðu verið vinkonur síðan á menntaskólaárunum .
 Hvenær höfðu Jenný og Saga verið vinkonur? Þær höfðu verið vinkonur
 síðan á menntaskólaárunum.
@@ -3006,7 +3006,7 @@ eftir að langa að hitta einhvern frægan einhvern tímann.
 
 Þetta var þá sagan af Sögu og Jennýju.
 
-**Saga 39**
+# Saga þrjátíu og níu (39)
 
 **A)**
 
@@ -3056,7 +3056,7 @@ En ég held að það verði nógu gott.
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Uppáhalds söngvarinn hans Andrésar hélt tónleika. Hver hélt
 tónleika? Uppáhalds söngvarinn hans Andrésar hélt tónleika.
 
@@ -3084,7 +3084,7 @@ sætið? Sætið verður sennilega aðeins of langt frá sviðinu.
 8\) Andrés heldur að miðinn verði nógu góður. Hvað finnst Andrési um
 miðann? Hann heldur að miðinn verði nógu góður.
 
-**Saga 40**
+# Saga fjörutíu (40)
 
 **A)**
 
@@ -3137,7 +3137,7 @@ ef þú vilt það frekar.
 
 **Spurningar:**
 
-**A)  
+**A)
 **1) Sjöfn á fjölmenna fjölskyldu. Á Sjöfn fjölmenna fjölskyldu? Já,
 Sjöfn á fjölmenna fjölskyldu.
 
@@ -3147,7 +3147,7 @@ Sjöfn á fjölmenna fjölskyldu.
 hennar? Bróðir Sjafnar er eldri en hún.
 
 4\) Bróðir Sjafnar er háværari en hún. Hvor þeirra er háværari, Sjöfn
-eða bróðir hennar? Bróðir Sjafnar er háværari en hún.  
+eða bróðir hennar? Bróðir Sjafnar er háværari en hún.
 **B)**
 
 5\) Systir Sjafnar er yngri en hún. Hvor er yngri, Sjöfn eða systir
@@ -3167,7 +3167,9 @@ Bróðir og systir Sjafnar eiga heima nær en frændsystkini hennar.
 
 Og þetta var sagan hennar Sjafnar.
 
-**Saga fjörutíu og eitt (41)** (á veitingastað; verð og magn)
+# Saga fjörutíu og eitt (41)
+
+(á veitingastað; verð og magn)
 
 **A)**
 
@@ -3217,20 +3219,20 @@ Svo ég ákvað að fá mér líka bara fáeina litla rétti.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Alli er á veitingastaðnum með vini sínum. Með hverjum er Alli á
 veitingastaðnum? Alli er á veitingastaðnum með vini sínum.
 
 2\) Alli og vinur hans eru að ákveða hvað þeir eigi að borða á
 veitingastaðnum. Hvað eru Alli og vinur hans að gera? Þeir eru að ákveða
-hvað þeir eigi að borða á veitingastaðnum.  
+hvað þeir eigi að borða á veitingastaðnum.
 3) Vinur Alla var ekki mjög svangur. Var vinur Alla mjög svangur? Nei,
-það var hann ekki. Vinur Alla var ekki mjög svangur.  
+það var hann ekki. Vinur Alla var ekki mjög svangur.
 4) Vinur Alla pantar bara fáeina, litla rétti. Hvað pantar vinur Alla
 mikinn mat?
 
-Vinur Alla pantar bara fáeina, litla rétti.  
-  
+Vinur Alla pantar bara fáeina, litla rétti.
+
 **B)**
 
 5\) Það var fyrsta skiptið sem Alli og vinur hans fóru á
@@ -3247,7 +3249,9 @@ hefði þurft að borga meira en vinur hans.
 8\) Alli ákvað líka að fá sér bara fáeina, litla rétti. Hvað ákvað Alli
 líka að fá sér? Alli ákvað líka bara að fá sér fáeina, litla rétti.
 
-**Saga fjörutíu og tvö (42)** (hver, hverskyns, mest; samanburður;
+# Saga fjörutíu og tvö (42)
+
+(hver, hverskyns, mest; samanburður;
 ‘spyrja’, ‘sagði’; fortíð og nútíð samfleytt)
 
 Næst er saga um Eyrúnu, sem er að kaupa sér hund.
@@ -3304,13 +3308,13 @@ Hún vonaði að hinum gæludýrunum hennar myndi líka við nýja hundinn.
 
 Nú koma nokkrar spurningar um söguna.
 
-**A)**  
+**A)**
 1) Eyrún vildi kaupa nýjan hund. Hvað vill Eyrún kaupa? Eyrún vill kaupa
 nýjan hund.
 
 2\) Afgreiðslumaðurinn segir að minnsti hundurinn sé sá vinalegasti.
 Hver er vinalegasti hundurinn? Afgreiðslumaðurinn segir að minnsti
-hundurinn sé sá vinalegasti.  
+hundurinn sé sá vinalegasti.
 3) Eyrúnu þykir minnsti, vinalegasti og klárasti hundurinn vera sá
 besti. Hver þykir Eyrúnu vera bestur? Eyrúnu þykir minnsti, vinalegasti
 og klárasti hundurinn vera sá besti.
@@ -3319,9 +3323,9 @@ og klárasti hundurinn vera sá besti.
 Hvað vonar Eyrún? Hún vonar að hinum gæludýrunum muni líka við nýja
 hundinn.
 
-**B)**  
+**B)**
 5) Hún var að skoða hunda í gæludýrabúðinni. Hvar var hún að skoða
-hunda? Hún var að skoða hunda í gæludýrabúðinni.  
+hunda? Hún var að skoða hunda í gæludýrabúðinni.
 6) Hún spurði afgreiðslumanninn:„Hvers konar hundur er vinalegastur?“ Að
 hverju spurði hún afgreiðslumanninn? Hún spurði afgreiðslumanninn:
 „Hvers konar hundur er vinalegastur?“
@@ -3334,7 +3338,9 @@ hundurinn er líka sá klárasti.
 
 Og þetta var sagan um þegar Eyrún keypti nýjan hund.
 
-**Saga fjörutíu og þrjú (43)** (orð um magn og fjölda, eins og allt,
+# Saga fjörutíu og þrjú (43)
+
+(orð um magn og fjölda, eins og allt,
 eitthvað, lítið, gæti, ætti, samt, þrátt fyrir, þó) – að skipuleggja
 stundatöflu
 
@@ -3386,7 +3392,7 @@ fer mestur minn tími í að læra.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Benni er að skoða stundatöfluna sína. Hvað er Benni að skoða? Benni
 er að skoða stundatöfluna sína.
 
@@ -3400,8 +3406,8 @@ kvöldin.
 
 4\) Benni er ekki í neinum kennslutímum um helgar. Er Benni í
 kennslutímum um helgar? Nei, Benni er ekki í neinum kennslutímum um
-helgar.  
-**B)**  
+helgar.
+**B)**
 5) Stundataflan hans var mjög þétt. Hve þétt var stundataflan hans?
 Stundataflan hans var mjög þétt.
 
@@ -3415,7 +3421,9 @@ hafði Benni á mánudögum? Benni hafði engan lausan tíma á mánudögum.
 einhvern tíma til að hitta vini sína? Já, Benni gæti haft smá tíma til
 að hitta vini sína.
 
-**Saga fjörutíu og fjögur (44)** (allt, eitthvað, smá; áður en, fyrir,
+# Saga fjörutíu og fjögur (44)
+
+(allt, eitthvað, smá; áður en, fyrir,
 alltaf, aldrei, stundum; í staðinn, fá, ef...)
 
 **A)**
@@ -3469,7 +3477,7 @@ gæti ég keypt nýja sokka.
 
 **Spurningar:**
 
-**A)**  
+**A)**
 1) Marteinn býr einn í lítilli íbúð. Býr Marteinn með einhverjum? Nei,
 Marteinn býr ekki með neinum. Hann býr einn í lítilli íbúð.
 
@@ -3482,8 +3490,8 @@ reyna að gera? Marteinn er að reyna að klæða sig fyrir vinnuna.
 
 4\) Marteinn hefur bara örstuttan tíma áður en vinnan byrjar. Hve mikinn
 tíma hefur Marteinn áður en vinnan byrjar? Hann hefur bara örstuttan
-tíma áður en vinnan byrjar.  
-**B)**  
+tíma áður en vinnan byrjar.
+**B)**
 5) Marteinn þurfti að vinna öll húsverkin. Hvað mikið af húsverkum
 þurfti Marteinn að vinna? Marteinn þurfti að vinna öll húsverkin.
 
@@ -3497,13 +3505,15 @@ Hvað var Marteinn ekki með? Hann var ekki með neina sokka til að fara í
 
 8\) Marteinn velti fyrir sér að fara í búðina áður en vinnan byrjaði.
 Hvenær velti Marteinn fyrir sér að fara í búðina? Marteinn velti fyrir
-sér að fara í búðina áður en vinnan byrjaði.**  
+sér að fara í búðina áður en vinnan byrjaði.**
 **
 
-**Saga 45** (áttir á korti, „ef“, háttarsagnir, (útvíkkað)
+# Saga fjörutíu og fimm (45)
+
+(áttir á korti, „ef“, háttarsagnir, (útvíkkað)
 framvinduhorf, „heldur“ og „sagði“, samsettar sagnir)
 
-**A)**  
+**A)**
 Toni hefur verið í fjallgöngu í þrjá daga.
 
 Hann hefur orðið að stoppa og skoða kortið sitt.
@@ -3525,11 +3535,11 @@ fjöllunum.
 Toni ákvað að tjalda fyrir nóttina.
 
 Kannski ef hann nær að sofa svolítið, gæti hann áttað sig á þessu á
-morgun.  
-  
+morgun.
+
 **B)**
 
-**(Toni segir frá)**  
+**(Toni segir frá)**
 Ég hafði verið í fjallgöngu í þrjá daga
 
 þegar ég varð að stoppa og skoða kortið mitt.
@@ -3552,20 +3562,20 @@ fjöllunum.
 
 Kannski, ef ég næ að sofa svolítið, gæti ég áttað mig á þessu á morgun.
 
-**Spurningar  
-A)  
+**Spurningar
+A)
 **1) Toni hefur verið í fjallgöngu í þrjá daga. Hve lengi hefur Toni
-verið á göngu? Toni hefur verið á göngu í fjöllunum í þrjá daga.  
+verið á göngu? Toni hefur verið á göngu í fjöllunum í þrjá daga.
 2) Hann hefur þurft að stoppa og skoða kortið sitt. Af hverju hefur hann
-þurft að stoppa? Hann hefur þurft að stoppa til að skoða kortið sitt.  
+þurft að stoppa? Hann hefur þurft að stoppa til að skoða kortið sitt.
 3) Hann hefði átt að vera að fara í vestur. Í hvaða átt hefði hann átt
-að vera að fara? Hann hefði átt að vera að fara í vestur.  
+að vera að fara? Hann hefði átt að vera að fara í vestur.
 4) Ef hann hefði verið að fara í vestur, hefði hann komið að stöðuvatni
 nú þegar. Hvað hefði átt að gerast ef hann hefði verið að fara í vestur?
 Hann hefði átt að koma að stöðuvatni ef hann hefði verið að fara í
-vestur.  
-  
-**B)**  
+vestur.
+
+**B)**
 5) Ég hélt ég hefði getað verið að fara í norður í staðinn. Í hvaða átt
 hélst þú að þú hefðir getað verið að fara? Ég hélt ég hefði getað verið
 að fara í norður í staðinn.
@@ -3582,7 +3592,7 @@ að tjalda fyrir nóttina.
 þú næðir að sofa, hvenær myndir þú geta áttað þig á þessu? Ef ég næði að
 sofa, myndi ég geta áttað mig á þessu á morgun.
 
-Saga 46
+# Saga fjörutíu og sex (46)
 
 A\)
 
@@ -3666,7 +3676,7 @@ að hugsa? Ég er að reyna að hugsa jákvætt.
 gerst ef mér gengur vel? Kannski, ef mér gengur vel, fæ ég stöðuhækkun í
 staðinn.
 
-Saga 47
+# Saga fjörutíu og sjö (47)
 
 A\)
 
@@ -3750,7 +3760,7 @@ að það væri betra ef ég héldi áfram í þessu. Af hverju leitaðir þú e
 að nýrri vinnu? Af því í heildina hugsaði ég að það væri betra ef ég
 héldi þessu starfi.
 
-Saga 48
+# Saga fjörutíu og átta (48)
 
 A\)
 
@@ -3834,7 +3844,7 @@ prófa? Ég gæti orðið að prófa hvort tveggja.
 gerst ef þú prófar hvort tveggja ? Ef þú prófar hvort tveggja, þá ættir
 þú að geta ákveðið þig.
 
-Saga 49
+# Saga fjörutíu og níu (49)
 
 A\)
 
@@ -3920,7 +3930,7 @@ fyrsti dagurinn hefði átt að vera auðveldari.
 niður. Hvað hugsaðir þú að þú ættir að gera? Þú hugsaðir að þú ættir að
 skrifa eitthvað af þessum tilfinningum niður.
 
-Saga 50
+# Saga fimmtíu (50)
 
 A\)
 
@@ -4002,7 +4012,7 @@ hverju þetta er nauðsynlegt.
 Vilja þau að félagsfræði sé leiðinleg? Nei, þau vona að
 félagsfræðikúrsinn verði ekki of leiðinlegur.
 
-Fimmtíu og eitt (51)
+# Saga fimmtíu og eitt (51)
 
 A\)
 
@@ -4088,7 +4098,7 @@ keyptu þau hann? Af því hann er á um það bil hálfvirði hinna.
 endast lengi. Hvað vona þau að muni ekki gerast? Þau vona að hann muni
 ekki brotna auðveldlega og eigi eftir að endast lengi.
 
-Fimmtíu og tvö (52)
+# Saga fimmtíu og tvö (52)
 
 Næsta saga er saga um konu sem var að verða langamma.
 
@@ -4179,7 +4189,7 @@ skipta á honum.
 sakna þau alls ekki? Þau sakna alls ekki að skipta um bleiur á dóttur
 sinni.
 
-Fimmtíu og þrjú (53)
+# Saga fimmtíu og þrjú (53)
 
 Þetta er sagan um Kendru, konu sem er að undirbúa sig fyrir glímukeppni.
 
@@ -4265,7 +4275,7 @@ tíma áður? Já, þær hafa ekki eins mikinn tíma og þær höfðu áður.
 Munu Kendra og vinkona hennar finna leið til að keppa? Já, engu að síður
 munu Kendra og vinkona hennar finna leið til að keppa.
 
-Fimmtíu og fjögur (54)
+# Saga fimmtíu og fjögur (54)
 
 A\)
 
@@ -4349,7 +4359,7 @@ fylgjast þau með bílnum nálgast? Þau eru að fylgjast með bílnum nálgast
 eftir að gera í næsta skipti? Í næsta skipti munu þau fara áður en
 rúturnar hætta að ganga.
 
-Fimmtíu og fimm (55)
+# Fimmtíu og fimm (55)
 
 A\)
 
@@ -4441,7 +4451,7 @@ eiga ykkar eigið heimili.
 4\. Á endanum ákváðum við að flytja í minni bæ. Hvað ákváðum við á
 endanum? Þið ákváðuð á endanum að flytja í minni bæ.
 
-Fimmtíu og sex (56)
+# Fimmtíu og sex (56)
 
 A\)
 
@@ -4541,7 +4551,7 @@ rannsóknirnar. Átti það eftir að taka mig stuttan tíma að gera
 nauðsynlegu rannsóknirnar? Nei, það átti eftir að taka mig sinn tíma að
 gera nauðsynlegu rannsóknirnar.
 
-57
+# Saga fimmtíu og sjö (57)
 
 A\) Villi hatar að vera fastur í umferðinni, sérstaklega á leiðinni í og
 úr vinnu.
@@ -4641,7 +4651,7 @@ umferðin hefur bara stöðugt orðið verri. Af hverju hefur samnýting bíla
 aukist gegnum síðustu fáeinu árin? Hún hefur aukist því umferðin hefur
 bara stöðugt orðið verri.
 
-Fimmtíu og átta (58)
+# Saga fimmtíu og átta (58)
 
 A\) Sammi og Bettý njóta þess að fara út að borða kvöldmat með vinum.
 
@@ -4740,7 +4750,7 @@ drekka ekki yfir höfuð.
 Fyrir hvað var mikil eftirspurn eftir þannig fólki? Það var alltaf mikil
 eftirspurn eftir þannig fólki fyrir að vera bílstjórar.
 
-59
+# Saga fimmtíu og níu (59)
 
 A\)
 
@@ -4848,7 +4858,7 @@ keypt bók? Hann gæti keypt bók í búðinni eftir að skima.
 bókum. Hvað vil ég frekar gera í bókabúðum og á bókasöfnum? Ég vil
 frekar bara skrifa niður nöfnin á áhugaverðum bókum.
 
-60
+# Saga sextíu (60)
 
 (Anna segir frá)
 

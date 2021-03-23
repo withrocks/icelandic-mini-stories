@@ -1,4 +1,4 @@
-*1*
+# 1
 
 A\)
 
@@ -73,7 +73,7 @@ customers are friendly.
 happy when he talks to the customers?  Yes, Mike feels happy when he
 talks to the customers.
 
-*2*
+# 2
 
 A\)
 
@@ -146,7 +146,7 @@ does not speak French.
 vacation.  Does Dustin decide to study French?  Yes, he decides to study
 French, to save money, and to stay home for the vacation.
 
-*3*
+# 3
 
 A\)
 
@@ -218,7 +218,7 @@ not like swimming.  She is afraid of water.
 8\) Karen is now very happy because she has a cat.  Is Karen bored now?
  No, Karen is not bored.  She is now very happy because she has a cat.
 
-*4*
+# 4
 
 A\)
 
@@ -287,7 +287,7 @@ she likes math and science.
 7\) The daughter and Amy do well in school.  Does the daughter do well
 in school?  Yes, the daughter and Amy do well in school.
 
-*5*
+# 5
 
 A\)
 
@@ -359,7 +359,7 @@ and Clare are related.  Clare is Jon’s older sister.
 8\) Clare makes Jon do his homework every day.  Does Clare make Jon do
 his homework?  Yes, Clare makes Jon do his homework every day.
 
-*6*
+# 6
 
 A\)
 
@@ -430,7 +430,7 @@ have a shower.  She has a hot bath.
 
 8\) Jane reads a book. Does Jane read a book?  Yes, she reads a book.
 
-*7*
+# 7
 
 A\)
 
@@ -499,7 +499,7 @@ are boring?  Yes, James thinks the meetings are boring.
 7\) James can go home at five.  Can James go home at four?  No, he can
 go home at five.
 
-*8*
+# 8
 
 A\)
 
@@ -576,7 +576,7 @@ hundred and fifty dollars.
 shoes?  No, Lisa does not buy the shoes.  She puts them down and leaves
 the store.
 
-*9*
+# 9
 
 A\)
 
@@ -647,7 +647,7 @@ store?  No, Andy finally leaves the store and goes home.
 7\) Andy orders pizza instead. Does Andy make dinner?  No, Andy does not
 make dinner.  He orders pizza instead.
 
-*10*
+# 10
 
 A\)
 
@@ -721,7 +721,7 @@ necklace?  No, there is not.  There is a blue cat on the necklace.
 buy the necklace?  Yes, Jack buys the necklace because he hopes Meg will
 like it
 
-*11*
+# 11
 
 A\)
 
@@ -798,7 +798,7 @@ a stove.
 9\) Brad can move next year. Can Brad move this year?  No, Brad can’t
 move this year.  He can move next year.
 
-*12*
+# 12
 
 A\)
 
@@ -876,7 +876,7 @@ screen, keyboard, and style.
 computer with cash?  No, she doesn’t use cash.  She buys it with a
 credit card.
 
-*13*
+# 13
 
 A\)
 
@@ -948,7 +948,7 @@ Kimi.
 8\) Saul says Kimi has a nice smile.  Does Saul say he likes Kimi’s
 smile?  Yes, Saul says Kimi has a nice smile.
 
-*14*
+# 14
 
 A\)
 
@@ -1021,7 +1021,7 @@ after class?  Yes, Kelly’s muscles are sore after class.
 8\) Maybe Kelly can’t learn how to dance.  Can Kelly learn how to dance?
  Maybe Kelly can’t learn how to dance.
 
-*15*
+# 15
 
 A\)
 
@@ -1091,7 +1091,7 @@ try running, too?  No, Emily tries lifting weights.
 exercise.  Are Mara and Emily very busy?  Yes, they are very busy, so
 they don’t have a lot of time to exercise.
 
-*16*
+# 16
 
 A\)
 
@@ -1164,7 +1164,7 @@ to people?  Yes, Gene likes talking to people, and shopping.
 restaurant?  No, he doesn’t want a job in a restaurant.  He wants to
 find a job in a store.  
 
-*17*
+# 17
 
 A\)
 
@@ -1236,7 +1236,7 @@ crowded?  Yes, the highway is always crowded every day.
 Marco want a motorcycle?  Yes, he thinks he might buy a motorcycle
 instead of driving.  
 
-*18*
+# 18
 
 A\)
 
@@ -1315,7 +1315,7 @@ Ashley does not wear the pants.  She wears the brown skirt.
 10\) Ashley’s legs are cold.  Is Ashley warm in her skirt?  No, she’s
 not warm.  Her legs are cold.
 
-*19*
+# 19
 
 A\)
 
@@ -1389,7 +1389,7 @@ Kyle does not buy the salad.  He buys and eats the French fries.
 **
 **
 
-*20*
+# 20
 
 A\)
 
@@ -1466,7 +1466,7 @@ to take the train to work.
 late? No, she didn’t want to be late.  She hoped she wouldn’t be late
 for work.
 
-*21*
+# 21
 
 A\)
 
@@ -1542,7 +1542,7 @@ playing.
 8\) Jerry decided to see the new comedy movie.  What movie did Jerry
 decide to see?  He decided to see the new comedy movie.
 
-*22*
+# 22
 
 A\)
 
@@ -1622,7 +1622,7 @@ water instead.
 better when she left the doctor? No, Emma didn’t feel better when she
 left the doctor.   
 
-*23*
+# 23
 
 A\)
 
@@ -1701,7 +1701,7 @@ his friend’s party?  Yes, Louie wanted to go to his friend’s party.
 9\) Louie studied for his exams after the party.  When did Louie study
 for his exams?  Louie studied for his exams after the party.
 
-*24*
+# 24
 
 **A)**
 
@@ -1779,7 +1779,7 @@ interview yesterday?  Yes, Carl was ready for his interview yesterday.
 **
 **
 
-*25*
+# 25
 
 **A)**
 
@@ -1862,7 +1862,7 @@ wife call the baby?  They called the baby ‘Ethan’.
 name.  What did Dave and his wife hope?  They hoped the baby was going
 to be happy with his name.
 
-*26*
+# 26
 
 **A)**
 
@@ -1941,7 +1941,7 @@ his school work there.
 thinking his Mom would feel?  Alex was thinking his Mom would be very
 happy.
 
-*27*
+# 27
 
 **A)**
 
@@ -2019,7 +2019,7 @@ going to stay in?  He was going to stay in a big city.
 9\) Bill was going to take lots of pictures there.  What was Bill going
 to do there?  Bill was going to take lots of pictures there.
 
-*28*
+# 28
 
 **A)**
 
@@ -2101,7 +2101,7 @@ each of her pictures online after her trip.
 10\) She was hoping the internet connection would be good.  What was she
 hoping for?  She was hoping the internet connection would be good.
 
-*29*
+# 29
 
 **A)**
 
@@ -2181,7 +2181,7 @@ the pasta sauce?  No, he forgot how to make it.  
 10) He was going to look at the recipe online.  Where was he going to
 look at the recipe?  He was going to look at the recipe online.
 
-*30*
+# 30
 
 **A)**
 
@@ -2266,7 +2266,7 @@ nice and sunny?  No, the weather is not always nice and sunny.
 10\) James hopes to go to the beach tomorrow.  When does James hope to
 go to the beach?  James hopes to go to the beach tomorrow.
 
-*31*
+# 31
 
 **A)**
 
@@ -2346,7 +2346,7 @@ can’t eat chicken.  She is allergic to chicken.
 10\) Rosie only eats the vegetables and dessert.  What does Rosie eat?
  She only eats the vegetables and dessert, but not the chicken.
 
-*32*
+# 32
 
 **A)**
 
@@ -2424,7 +2424,7 @@ and her husband.
 8\) Sara’s son is having orange juice. Is Sara’s son having tea?  No,
 Sara’s son isn’t having tea.  He’s having orange juice.
 
-*33*
+# 33
 
 **A)**
 
@@ -2500,7 +2500,7 @@ been trying to do?  He has been trying to take notes about the class.
 8\) Eric realized that he’d forgotten a pen, too.  What did Eric
 realize?  Eric realized that he’d forgotten a pen, too.
 
-*34*
+# 34
 
 **A)**
 
@@ -2580,7 +2580,7 @@ order?  They order some spicy Thai food.
 spicy, Tom’s salad, or his friends’ food?  Tom’s salad is less spicy
 than his friends’ food.
 
-*35*
+# 35
 
 A\)
 
@@ -2647,7 +2647,7 @@ Max?  Yes, the son and Max will always play together.
 7\) The son will clean Max often.  Will the son’s Mom be cleaning Max?
  No, she won’t be.  The son will clean Max often.
 
-*36*
+# 36
 
 A\)
 
@@ -2728,7 +2728,7 @@ an actor in movies and on TV.
 same as his brother and sister?  No, Phil is not be the same.  He is
 very different from his brother and sister.
 
-*37*
+# 37
 
 **A)**
 
@@ -2806,7 +2806,7 @@ Friday.
 8\) Adam hasn’t had a light schedule in a long time.  What hasn’t Adam
 had in a long time?  Adam hasn’t had a light schedule in a long time.
 
-*38*
+# 38
 
 Now a story about two friends, Sasha and Jen.
 
@@ -2897,7 +2897,7 @@ meet a famous person one day.  
 
 And that was the story of friends Sasha and Jen.
 
-*39*
+# 39
 
 **A)**
 
@@ -2973,7 +2973,7 @@ stage.
 8\) Adrian thinks the ticket will be good enough. How does Adrian feel
 about the ticket?  He thinks the ticket will be good enough.  
 
-*40*
+# 40
 
 This is a story about Sharon and her family.
 
@@ -3058,7 +3058,7 @@ and sister live closer than her cousins.
 
 And that was Sharon’s story.
 
-*41*
+# 41
 
 (at a restaurant; prices and quantities)
 
@@ -3127,7 +3127,7 @@ his friend.  What would have happened if Allen had ordered lots of food?
 Allen decide to get as well?  Allen decided to only get a few small
 dishes, as well.
 
-*42*
+# 42
 
 (which one, what kind, most; comparatives; ‘ask’, ‘said’;
 past and present continuous)
@@ -3215,7 +3215,7 @@ she decide to buy?  She decided to buy the one she liked the best.
 
 And that was the story of Erika buying a new dog.
 
-*43*
+# 43
 
 (words of quantity like all, any, little; could, should;
  although) – organizing schedule
@@ -3293,7 +3293,7 @@ Ben have on Mondays?  Ben didn’t have any free time on Mondays.
 time to see his friends?  Yes, Ben could have a little time to see his
 friends.
 
-*44*
+# 44
 
 (all, any, little; before, always, never sometimes;
 instead, get, if...)
@@ -3377,7 +3377,7 @@ before work started.
 **
 **
 
-*45*
+# 45
 
 (map directions, ‘if’, modals, continuous tenses, ‘thinks’
 and ‘said’, phrasal verbs)
@@ -3446,7 +3446,7 @@ I decided to set up camp for the night.
 tomorrow. If you got some sleep, when would you be able to figure it
 out?  If I got some sleep, I would be able to figure it out tomorrow.
 
-*46*
+# 46
 
 A\)
 
@@ -3524,7 +3524,7 @@ think? I’m trying to think positively.
 8\) Maybe if I do well, I’ll get promoted instead. What might happen if
 you do well? Maybe if I do well, I’ll get promoted instead.
 
-*47*
+# 47
 
 A\)
 
@@ -3604,7 +3604,7 @@ would be better if I stayed with this one. Why didn’t you look for a new
 job? Because overall I thought it would be better if I stayed with this
 one.
 
-*48*
+# 48
 
 A\)
 
@@ -3688,7 +3688,7 @@ try? I might have to give both of them a try.
 might happen if you try both? If you try both,you should then be able to
 make up your mind.
 
-*49*
+# 49
 
 A\)
 
@@ -3770,7 +3770,7 @@ have been easier.
 you think you should do? You thought you should write some of these
 feelings down.
 
-*50*
+# 50
 
 A\)
 
@@ -3849,7 +3849,7 @@ why this is necessary? No, they’re not sure why this is necessary.
 Sociology class to be boring? No, they hope Sociology class won’t be too
 boring.
 
-*51*
+# 51
 
 A\)
 
@@ -3930,7 +3930,7 @@ they buy it? Because it’s about half the price of the others.
 they hope won’t happen? They hope it won’t break easily, and last them a
 long time.
 
-*52*
+# 52
 
 The next story is about a woman who has become a grandmother.
 
@@ -4015,7 +4015,7 @@ with? They even helped change his diaper once.
 they miss at all? They don’t miss changing their daughter’s diaper at
 all.
 
-*53*
+# 53
 
 This story is about Kendra, a woman preparing for a wrestling
 competition.
@@ -4102,7 +4102,7 @@ more time? Yes, they don’t have as much time as they used to.
 Kendra and her friend find a way to compete? Yes, nonetheless, Kendra
 and her friend will find a way to compete.
 
-*54*
+# 54
 
 This is the story of Mariah who is stranded at the park.
 
@@ -4188,7 +4188,7 @@ the phone screen.
 they do next time? Next time, they’ll leave before the buses stop
 running.
 
-*55*
+# 55
 
 A\)
 
@@ -4279,7 +4279,7 @@ preferred to own? You felt you preferred to own your own home.
 4\. Finally we decided to move to a smaller town. What did we finally
 decide? You finally decided to move to a smaller town.
 
-*56*
+# 56
 
 A\)
 
@@ -4373,7 +4373,7 @@ I ask my existing overseas customers for? I asked them for advice.
 Was it going to take me a short time to do the necessary research. No,
 it was going to take me a while to do the research.
 
-*57*
+# 57
 
 A\)
 
@@ -4468,7 +4468,7 @@ has just kept on getting worse. Why has carpooling grown over the past
 few years? It’s grown because the traffic has just kept on getting
 worse.
 
-*58*
+# 58
 
 A\)
 
@@ -4571,7 +4571,7 @@ friends who didn’t drink at all.
 such people always in demand as? Such people were always in demand as
 designated drivers.
 
-*59*
+# 59
 
 A\)
 
@@ -4676,7 +4676,7 @@ buy a book? He might buy a book in the store after browsing.
 What do I prefer to do in bookstores and libraries? I prefer to just
 write down the names of interesting books.
 
-*60*
+# 60
 
 A\)
 
