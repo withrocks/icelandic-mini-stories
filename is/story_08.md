@@ -1,7 +1,9 @@
 # Saga átta (8)
 
+[prev](../is/story_07.md)
 [en](../en/story_08.md)
 [audio](../audio/story_08.mp3)
+[next](../is/story_09.md)
 
 A\)
 

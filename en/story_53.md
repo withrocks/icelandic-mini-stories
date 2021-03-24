@@ -1,7 +1,9 @@
 # 53
 
+[prev](../en/story_52.md)
 [is](../is/story_53.md)
 [audio](../audio/story_53.mp3)
+[next](../en/story_54.md)
 
 This story is about Kendra, a woman preparing for a wrestling
 competition.

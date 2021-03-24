@@ -1,7 +1,9 @@
 # Saga tuttugu og þrjú (23)
 
+[prev](../is/story_22.md)
 [en](../en/story_23.md)
 [audio](../audio/story_23.mp3)
+[next](../is/story_24.md)
 
 A\)
 

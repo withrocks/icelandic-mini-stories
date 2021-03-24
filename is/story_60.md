@@ -1,7 +1,9 @@
 # Saga sextíu (60)
 
+[prev](../is/story_59.md)
 [en](../en/story_60.md)
 [audio](../audio/story_60.mp3)
+[next](../is/story_01.md)
 
 (Anna segir frá)
 

@@ -1,7 +1,9 @@
 # Saga tuttugu og sex (26)
 
+[prev](../is/story_25.md)
 [en](../en/story_26.md)
 [audio](../audio/story_26.mp3)
+[next](../is/story_27.md)
 
 **A)**
 

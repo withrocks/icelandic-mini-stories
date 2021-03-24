@@ -1,7 +1,9 @@
 # Fimmtíu og fimm (55)
 
+[prev](../is/story_54.md)
 [en](../en/story_55.md)
 [audio](../audio/story_55.mp3)
+[next](../is/story_56.md)
 
 A\)
 

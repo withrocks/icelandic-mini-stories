@@ -1,7 +1,9 @@
 # Saga tuttugu og níu (29)
 
+[prev](../is/story_28.md)
 [en](../en/story_29.md)
 [audio](../audio/story_29.mp3)
+[next](../is/story_30.md)
 
 **A)**
 

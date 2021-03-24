@@ -1,7 +1,9 @@
 # Saga tólf (12)
 
+[prev](../is/story_11.md)
 [en](../en/story_12.md)
 [audio](../audio/story_12.mp3)
+[next](../is/story_13.md)
 
 A\)
 

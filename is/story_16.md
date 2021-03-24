@@ -1,7 +1,9 @@
 # Saga sextán (16)
 
+[prev](../is/story_15.md)
 [en](../en/story_16.md)
 [audio](../audio/story_16.mp3)
+[next](../is/story_17.md)
 
 A\)
 

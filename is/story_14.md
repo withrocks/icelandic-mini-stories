@@ -1,7 +1,9 @@
 # Saga fjórtán (14)
 
+[prev](../is/story_13.md)
 [en](../en/story_14.md)
 [audio](../audio/story_14.mp3)
+[next](../is/story_15.md)
 
 A\)
 

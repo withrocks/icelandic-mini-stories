@@ -1,7 +1,9 @@
 # Saga þrjátíu og átta (38)
 
+[prev](../is/story_37.md)
 [en](../en/story_38.md)
 [audio](../audio/story_38.mp3)
+[next](../is/story_39.md)
 
 Nú kemur saga um tvær vinkonur, Sögu og Jennýju.
 

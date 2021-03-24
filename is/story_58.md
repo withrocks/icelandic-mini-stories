@@ -1,7 +1,9 @@
 # Saga fimmtíu og átta (58)
 
+[prev](../is/story_57.md)
 [en](../en/story_58.md)
 [audio](../audio/story_58.mp3)
+[next](../is/story_59.md)
 
 A\) Sammi og Bettý njóta þess að fara út að borða kvöldmat með vinum.
 

@@ -1,7 +1,9 @@
 # Saga þrjátíu og níu (39)
 
+[prev](../is/story_38.md)
 [en](../en/story_39.md)
 [audio](../audio/story_39.mp3)
+[next](../is/story_40.md)
 
 **A)**
 

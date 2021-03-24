@@ -1,7 +1,9 @@
 # Saga þrjátíu og sjö (37)
 
+[prev](../is/story_36.md)
 [en](../en/story_37.md)
 [audio](../audio/story_37.mp3)
+[next](../is/story_38.md)
 
 **A)**
 

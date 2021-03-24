@@ -1,7 +1,9 @@
 # Saga fjörutíu og sex (46)
 
+[prev](../is/story_45.md)
 [en](../en/story_46.md)
 [audio](../audio/story_46.mp3)
+[next](../is/story_47.md)
 
 A\)
 

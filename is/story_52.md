@@ -1,7 +1,9 @@
 # Saga fimmtíu og tvö (52)
 
+[prev](../is/story_51.md)
 [en](../en/story_52.md)
 [audio](../audio/story_52.mp3)
+[next](../is/story_53.md)
 
 Næsta saga er saga um konu sem var að verða langamma.
 

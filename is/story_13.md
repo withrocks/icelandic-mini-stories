@@ -1,7 +1,9 @@
 # Saga þrettán (13)
 
+[prev](../is/story_12.md)
 [en](../en/story_13.md)
 [audio](../audio/story_13.mp3)
+[next](../is/story_14.md)
 
 A\)
 

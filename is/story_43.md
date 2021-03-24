@@ -1,7 +1,9 @@
 # Saga fjörutíu og þrjú (43)
 
+[prev](../is/story_42.md)
 [en](../en/story_43.md)
 [audio](../audio/story_43.mp3)
+[next](../is/story_44.md)
 
 (orð um magn og fjölda, eins og allt,
 eitthvað, lítið, gæti, ætti, samt, þrátt fyrir, þó) – að skipuleggja

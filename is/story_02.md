@@ -1,7 +1,9 @@
 # Saga tvö (2)
 
+[prev](../is/story_01.md)
 [en](../en/story_02.md)
 [audio](../audio/story_02.mp3)
+[next](../is/story_03.md)
 
 A\)
 

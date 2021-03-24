@@ -1,7 +1,9 @@
 # Saga átján (18)
 
+[prev](../is/story_17.md)
 [en](../en/story_18.md)
 [audio](../audio/story_18.mp3)
+[next](../is/story_19.md)
 
 A\)
 

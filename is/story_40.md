@@ -1,7 +1,9 @@
 # Saga fjörutíu (40)
 
+[prev](../is/story_39.md)
 [en](../en/story_40.md)
 [audio](../audio/story_40.mp3)
+[next](../is/story_41.md)
 
 **A)**
 

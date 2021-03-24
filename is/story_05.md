@@ -1,7 +1,9 @@
 # Saga fimm (5)
 
+[prev](../is/story_04.md)
 [en](../en/story_05.md)
 [audio](../audio/story_05.mp3)
+[next](../is/story_06.md)
 
 A\)
 

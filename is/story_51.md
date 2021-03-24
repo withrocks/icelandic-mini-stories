@@ -1,7 +1,9 @@
 # Saga fimmtíu og eitt (51)
 
+[prev](../is/story_50.md)
 [en](../en/story_51.md)
 [audio](../audio/story_51.mp3)
+[next](../is/story_52.md)
 
 A\)
 

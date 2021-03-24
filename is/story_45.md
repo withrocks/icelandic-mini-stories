@@ -1,7 +1,9 @@
 # Saga fjörutíu og fimm (45)
 
+[prev](../is/story_44.md)
 [en](../en/story_45.md)
 [audio](../audio/story_45.mp3)
+[next](../is/story_46.md)
 
 (áttir á korti, „ef“, háttarsagnir, (útvíkkað)
 framvinduhorf, „heldur“ og „sagði“, samsettar sagnir)

@@ -1,7 +1,9 @@
 # Saga fimmtíu og níu (59)
 
+[prev](../is/story_58.md)
 [en](../en/story_59.md)
 [audio](../audio/story_59.mp3)
+[next](../is/story_60.md)
 
 A\)
 

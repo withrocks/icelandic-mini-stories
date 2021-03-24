@@ -1,7 +1,9 @@
 # Saga fimmtíu (50)
 
+[prev](../is/story_49.md)
 [en](../en/story_50.md)
 [audio](../audio/story_50.mp3)
+[next](../is/story_51.md)
 
 A\)
 

@@ -1,7 +1,9 @@
 # 40
 
+[prev](../en/story_39.md)
 [is](../is/story_40.md)
 [audio](../audio/story_40.mp3)
+[next](../en/story_41.md)
 
 This is a story about Sharon and her family.
 

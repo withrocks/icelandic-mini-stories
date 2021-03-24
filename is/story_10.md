@@ -1,7 +1,9 @@
 # Saga tíu (10)
 
+[prev](../is/story_09.md)
 [en](../en/story_10.md)
 [audio](../audio/story_10.mp3)
+[next](../is/story_11.md)
 
 A\)
 

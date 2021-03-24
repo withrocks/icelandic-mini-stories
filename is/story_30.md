@@ -1,7 +1,9 @@
 # Saga þrjátíu (30)
 
+[prev](../is/story_29.md)
 [en](../en/story_30.md)
 [audio](../audio/story_30.mp3)
+[next](../is/story_31.md)
 
 **A)**
 

@@ -1,7 +1,9 @@
 # Saga nítján (19)
 
+[prev](../is/story_18.md)
 [en](../en/story_19.md)
 [audio](../audio/story_19.mp3)
+[next](../is/story_20.md)
 
 A\)
 

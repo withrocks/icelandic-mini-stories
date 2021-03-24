@@ -1,7 +1,9 @@
 # 17
 
+[prev](../en/story_16.md)
 [is](../is/story_17.md)
 [audio](../audio/story_17.mp3)
+[next](../en/story_18.md)
 
 A\)
 

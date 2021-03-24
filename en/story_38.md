@@ -1,7 +1,9 @@
 # 38
 
+[prev](../en/story_37.md)
 [is](../is/story_38.md)
 [audio](../audio/story_38.mp3)
+[next](../en/story_39.md)
 
 Now a story about two friends, Sasha and Jen.
 

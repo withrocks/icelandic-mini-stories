@@ -1,7 +1,9 @@
 # Saga þrjátíu og fjögur (34)
 
+[prev](../is/story_33.md)
 [en](../en/story_34.md)
 [audio](../audio/story_34.mp3)
+[next](../is/story_35.md)
 
 **A)**
 

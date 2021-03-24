@@ -1,7 +1,9 @@
 # Saga fimmtíu og sjö (57)
 
+[prev](../is/story_56.md)
 [en](../en/story_57.md)
 [audio](../audio/story_57.mp3)
+[next](../is/story_58.md)
 
 A\) Villi hatar að vera fastur í umferðinni, sérstaklega á leiðinni í og
 úr vinnu.

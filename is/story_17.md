@@ -1,7 +1,9 @@
 # Saga sautján (17)
 
+[prev](../is/story_16.md)
 [en](../en/story_17.md)
 [audio](../audio/story_17.mp3)
+[next](../is/story_18.md)
 
 A\)
 

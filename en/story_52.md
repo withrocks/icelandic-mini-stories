@@ -1,7 +1,9 @@
 # 52
 
+[prev](../en/story_51.md)
 [is](../is/story_52.md)
 [audio](../audio/story_52.mp3)
+[next](../en/story_53.md)
 
 The next story is about a woman who has become a grandmother.
 
