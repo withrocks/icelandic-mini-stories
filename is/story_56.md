@@ -1,9 +1,11 @@
 # Fimmtíu og sex (56)
 
-[prev](../is/story_55.md)
 [en](../en/story_56.md)
+
 [audio](../audio/story_56.mp3)
-[next](../is/story_57.md)
+
+[← prev](../is/story_55.md)
+[next →](../is/story_57.md)
 
 A\)
 

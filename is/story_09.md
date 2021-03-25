@@ -1,9 +1,11 @@
 # Saga níu (9)
 
-[prev](../is/story_08.md)
 [en](../en/story_09.md)
+
 [audio](../audio/story_09.mp3)
-[next](../is/story_10.md)
+
+[← prev](../is/story_08.md)
+[next →](../is/story_10.md)
 
 A\)
 

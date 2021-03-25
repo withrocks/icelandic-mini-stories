@@ -1,9 +1,11 @@
 # Saga ellefu (11)
 
-[prev](../is/story_10.md)
 [en](../en/story_11.md)
+
 [audio](../audio/story_11.mp3)
-[next](../is/story_12.md)
+
+[← prev](../is/story_10.md)
+[next →](../is/story_12.md)
 
 A\)
 

@@ -1,9 +1,11 @@
 # Saga þrjátíu og eitt (31)
 
-[prev](../is/story_30.md)
 [en](../en/story_31.md)
+
 [audio](../audio/story_31.mp3)
-[next](../is/story_32.md)
+
+[← prev](../is/story_30.md)
+[next →](../is/story_32.md)
 
 **A)**
 

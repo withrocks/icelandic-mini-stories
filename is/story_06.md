@@ -1,9 +1,11 @@
 # Saga sex (6)
 
-[prev](../is/story_05.md)
 [en](../en/story_06.md)
+
 [audio](../audio/story_06.mp3)
-[next](../is/story_07.md)
+
+[← prev](../is/story_05.md)
+[next →](../is/story_07.md)
 
 A\)
 

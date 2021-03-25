@@ -36,16 +36,17 @@ for line in f:
         lines.append("")
         prev_story = ((story - 1 - 1) % 60) + 1
         next_story = (story % 60) + 1
-        lines.append("[prev](../{0}/{1})".format(language, textfile(prev_story)))
+
         lines.append("[{0}](../{0}/{1})".format(other_language, textfile(story)))
+        lines.append("")
+
         lines.append("[audio](../audio/{})".format(audiofile(story)))
-        lines.append("[next](../{0}/{1})".format(language, textfile(next_story)))
+        lines.append("")
+
+        lines.append("[← prev](../{0}/{1})".format(language, textfile(prev_story)))
+        lines.append("[next →](../{0}/{1})".format(language, textfile(next_story)))
+
     else:
         lines.append(line)
 
-
-
 work(lines, story)
-
-
-

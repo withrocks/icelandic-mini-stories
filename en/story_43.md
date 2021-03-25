@@ -1,9 +1,11 @@
 # 43
 
-[prev](../en/story_42.md)
 [is](../is/story_43.md)
+
 [audio](../audio/story_43.mp3)
-[next](../en/story_44.md)
+
+[← prev](../en/story_42.md)
+[next →](../en/story_44.md)
 
 (words of quantity like all, any, little; could, should;
 although) – organizing schedule

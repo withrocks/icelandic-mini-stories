@@ -1,9 +1,11 @@
 # 54
 
-[prev](../en/story_53.md)
 [is](../is/story_54.md)
+
 [audio](../audio/story_54.mp3)
-[next](../en/story_55.md)
+
+[← prev](../en/story_53.md)
+[next →](../en/story_55.md)
 
 This is the story of Mariah who is stranded at the park.
 

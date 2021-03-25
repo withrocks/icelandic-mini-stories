@@ -1,9 +1,11 @@
 # Saga eitt (1)
 
-[prev](../is/story_60.md)
 [en](../en/story_01.md)
+
 [audio](../audio/story_01.mp3)
-[next](../is/story_02.md)
+
+[← prev](../is/story_60.md)
+[next →](../is/story_02.md)
 
 Þetta er sagan um Mikael sem er kokkur.
 

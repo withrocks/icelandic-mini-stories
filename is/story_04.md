@@ -1,9 +1,11 @@
 # Saga fjögur (4)
 
-[prev](../is/story_03.md)
 [en](../en/story_04.md)
+
 [audio](../audio/story_04.mp3)
-[next](../is/story_05.md)
+
+[← prev](../is/story_03.md)
+[next →](../is/story_05.md)
 
 A\)
 

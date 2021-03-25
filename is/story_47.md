@@ -1,9 +1,11 @@
 # Saga fjörutíu og sjö (47)
 
-[prev](../is/story_46.md)
 [en](../en/story_47.md)
+
 [audio](../audio/story_47.mp3)
-[next](../is/story_48.md)
+
+[← prev](../is/story_46.md)
+[next →](../is/story_48.md)
 
 A\)
 

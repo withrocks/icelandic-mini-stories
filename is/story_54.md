@@ -1,9 +1,11 @@
 # Saga fimmtíu og fjögur (54)
 
-[prev](../is/story_53.md)
 [en](../en/story_54.md)
+
 [audio](../audio/story_54.mp3)
-[next](../is/story_55.md)
+
+[← prev](../is/story_53.md)
+[next →](../is/story_55.md)
 
 A\)
 

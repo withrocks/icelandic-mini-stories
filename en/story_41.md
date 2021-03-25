@@ -1,9 +1,11 @@
 # 41
 
-[prev](../en/story_40.md)
 [is](../is/story_41.md)
+
 [audio](../audio/story_41.mp3)
-[next](../en/story_42.md)
+
+[← prev](../en/story_40.md)
+[next →](../en/story_42.md)
 
 (at a restaurant; prices and quantities)
 

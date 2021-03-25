@@ -1,9 +1,11 @@
 # Saga fjörutíu og tvö (42)
 
-[prev](../is/story_41.md)
 [en](../en/story_42.md)
+
 [audio](../audio/story_42.mp3)
-[next](../is/story_43.md)
+
+[← prev](../is/story_41.md)
+[next →](../is/story_43.md)
 
 (hver, hverskyns, mest; samanburður;
 ‘spyrja’, ‘sagði’; fortíð og nútíð samfleytt)

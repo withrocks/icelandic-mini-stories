@@ -1,9 +1,11 @@
 # 21
 
-[prev](../en/story_20.md)
 [is](../is/story_21.md)
+
 [audio](../audio/story_21.mp3)
-[next](../en/story_22.md)
+
+[← prev](../en/story_20.md)
+[next →](../en/story_22.md)
 
 A\)
 

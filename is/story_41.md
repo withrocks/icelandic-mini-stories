@@ -1,9 +1,11 @@
 # Saga fjörutíu og eitt (41)
 
-[prev](../is/story_40.md)
 [en](../en/story_41.md)
+
 [audio](../audio/story_41.mp3)
-[next](../is/story_42.md)
+
+[← prev](../is/story_40.md)
+[next →](../is/story_42.md)
 
 (á veitingastað; verð og magn)
 

@@ -1,9 +1,11 @@
 # Saga tuttugu og átta (28)
 
-[prev](../is/story_27.md)
 [en](../en/story_28.md)
+
 [audio](../audio/story_28.mp3)
-[next](../is/story_29.md)
+
+[← prev](../is/story_27.md)
+[next →](../is/story_29.md)
 
 **A)**
 

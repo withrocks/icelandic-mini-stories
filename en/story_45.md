@@ -1,9 +1,11 @@
 # 45
 
-[prev](../en/story_44.md)
 [is](../is/story_45.md)
+
 [audio](../audio/story_45.mp3)
-[next](../en/story_46.md)
+
+[← prev](../en/story_44.md)
+[next →](../en/story_46.md)
 
 (map directions, ‘if’, modals, continuous tenses, ‘thinks’
 and ‘said’, phrasal verbs)
