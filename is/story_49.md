@@ -1,9 +1,11 @@
 # Saga fjörutíu og níu (49)
 
-[prev](../is/story_48.md)
 [en](../en/story_49.md)
+
 [audio](../audio/story_49.mp3)
-[next](../is/story_50.md)
+
+[← prev](../is/story_48.md)
+[next →](../is/story_50.md)
 
 A\)
 

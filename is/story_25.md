@@ -1,9 +1,11 @@
 # Saga tuttugu og fimm (25)
 
-[prev](../is/story_24.md)
 [en](../en/story_25.md)
+
 [audio](../audio/story_25.mp3)
-[next](../is/story_26.md)
+
+[← prev](../is/story_24.md)
+[next →](../is/story_26.md)
 
 **A)**
 

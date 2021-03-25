@@ -1,9 +1,11 @@
 # Saga fimmtán (15)
 
-[prev](../is/story_14.md)
 [en](../en/story_15.md)
+
 [audio](../audio/story_15.mp3)
-[next](../is/story_16.md)
+
+[← prev](../is/story_14.md)
+[next →](../is/story_16.md)
 
 A\)
 

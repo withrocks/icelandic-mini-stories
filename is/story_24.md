@@ -1,9 +1,11 @@
 # Saga tuttugu og fjögur (24)
 
-[prev](../is/story_23.md)
 [en](../en/story_24.md)
+
 [audio](../audio/story_24.mp3)
-[next](../is/story_25.md)
+
+[← prev](../is/story_23.md)
+[next →](../is/story_25.md)
 
 **A)**
 

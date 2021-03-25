@@ -1,9 +1,11 @@
 # 42
 
-[prev](../en/story_41.md)
 [is](../is/story_42.md)
+
 [audio](../audio/story_42.mp3)
-[next](../en/story_43.md)
+
+[← prev](../en/story_41.md)
+[next →](../en/story_43.md)
 
 (which one, what kind, most; comparatives; ‘ask’, ‘said’;
 past and present continuous)

@@ -1,9 +1,11 @@
 # Saga sjö (7)
 
-[prev](../is/story_06.md)
 [en](../en/story_07.md)
+
 [audio](../audio/story_07.mp3)
-[next](../is/story_08.md)
+
+[← prev](../is/story_06.md)
+[next →](../is/story_08.md)
 
 A\)
 

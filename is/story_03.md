@@ -1,9 +1,11 @@
 # Saga þrjú (3)
 
-[prev](../is/story_02.md)
 [en](../en/story_03.md)
+
 [audio](../audio/story_03.mp3)
-[next](../is/story_04.md)
+
+[← prev](../is/story_02.md)
+[next →](../is/story_04.md)
 
 A\)
 

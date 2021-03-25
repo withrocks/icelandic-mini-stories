@@ -1,9 +1,11 @@
 # Saga tuttugu og tvö (22)
 
-[prev](../is/story_21.md)
 [en](../en/story_22.md)
+
 [audio](../audio/story_22.mp3)
-[next](../is/story_23.md)
+
+[← prev](../is/story_21.md)
+[next →](../is/story_23.md)
 
 A\)
 

@@ -1,9 +1,11 @@
 # Saga fjörutíu og fjögur (44)
 
-[prev](../is/story_43.md)
 [en](../en/story_44.md)
+
 [audio](../audio/story_44.mp3)
-[next](../is/story_45.md)
+
+[← prev](../is/story_43.md)
+[next →](../is/story_45.md)
 
 (allt, eitthvað, smá; áður en, fyrir,
 alltaf, aldrei, stundum; í staðinn, fá, ef...)

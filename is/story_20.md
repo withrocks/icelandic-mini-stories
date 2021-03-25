@@ -1,9 +1,11 @@
 # Saga tuttugu (20)
 
-[prev](../is/story_19.md)
 [en](../en/story_20.md)
+
 [audio](../audio/story_20.mp3)
-[next](../is/story_21.md)
+
+[← prev](../is/story_19.md)
+[next →](../is/story_21.md)
 
 A\)
 

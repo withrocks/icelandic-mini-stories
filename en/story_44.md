@@ -1,9 +1,11 @@
 # 44
 
-[prev](../en/story_43.md)
 [is](../is/story_44.md)
+
 [audio](../audio/story_44.mp3)
-[next](../en/story_45.md)
+
+[← prev](../en/story_43.md)
+[next →](../en/story_45.md)
 
 (all, any, little; before, always, never sometimes;
 instead, get, if...)

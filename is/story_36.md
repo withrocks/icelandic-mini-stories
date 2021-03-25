@@ -1,9 +1,11 @@
 # Saga þrjátíu og sex (36)
 
-[prev](../is/story_35.md)
 [en](../en/story_36.md)
+
 [audio](../audio/story_36.mp3)
-[next](../is/story_37.md)
+
+[← prev](../is/story_35.md)
+[next →](../is/story_37.md)
 
 A\)
 

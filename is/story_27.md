@@ -1,9 +1,11 @@
 # Saga tuttugu og sjö (27)
 
-[prev](../is/story_26.md)
 [en](../en/story_27.md)
+
 [audio](../audio/story_27.mp3)
-[next](../is/story_28.md)
+
+[← prev](../is/story_26.md)
+[next →](../is/story_28.md)
 
 **A)**
 

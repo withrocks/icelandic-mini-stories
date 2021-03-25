@@ -1,9 +1,11 @@
 # Saga fimmtíu og þrjú (53)
 
-[prev](../is/story_52.md)
 [en](../en/story_53.md)
+
 [audio](../audio/story_53.mp3)
-[next](../is/story_54.md)
+
+[← prev](../is/story_52.md)
+[next →](../is/story_54.md)
 
 Þetta er sagan um Kendru, konu sem er að undirbúa sig fyrir glímukeppni.
 

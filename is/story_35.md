@@ -1,9 +1,11 @@
 # Saga þrjátíu og fimm (35)
 
-[prev](../is/story_34.md)
 [en](../en/story_35.md)
+
 [audio](../audio/story_35.mp3)
-[next](../is/story_36.md)
+
+[← prev](../is/story_34.md)
+[next →](../is/story_36.md)
 
 A\)
 
