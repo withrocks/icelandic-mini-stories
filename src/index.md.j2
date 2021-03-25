@@ -1,0 +1,12 @@
+## Mini stories in Icelandic
+
+All content is in the public domain. Content author: Rökkvi Vésteinsson
+
+Original content: http://leikjaland.is/icelandic.html
+
+### Stories
+
+{% for story in stories_list %}
+[Story #{{ story }}](./is/story_{{ '%02d' % story }}.md)
+{% endfor %}
+
